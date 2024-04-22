@@ -1,0 +1,20 @@
+.squaree {
+    display: flex;
+    width: 250px;
+    height: 300px;
+    background-color: #899191;
+  }
+  
+  .circle {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+  }
+  
+  .text {
+    margin: auto;
+    color: white;
+    font-size: 15px;
+  }

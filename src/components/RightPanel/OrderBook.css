@@ -1,0 +1,49 @@
+.square {
+    display: flex;
+    width: 80px;
+    height: 35px;
+    background-color: rgb(35, 35, 41);
+    box-sizing: content-box !important;
+  }
+
+.rectangle{
+    display: flex;
+    width: 75px;
+    height: 25px;
+    background-color: #3d3e3e;
+    box-sizing: content-box !important;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+  
+  .circle {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+  }
+  
+  .text {
+    margin: auto;
+    color: white;
+    font-size: 15px;
+  }
+
+  .nopadding {
+    padding: 0 !important;
+ }
+
+  .containedbox{
+    box-sizing: content-box !important;
+ }
+
+ .textAlignCenter {
+    text-align: center; 
+  }
+
+  .marginbottom{
+    margin-bottom: 0;
+  }
